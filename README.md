@@ -1,7 +1,7 @@
 # RStudio ServerとJupyterHubがインストールされた典型的なデータサイエンス実習環境
 
 <div align="right">
-[鶴見教育工学研究所](https://mana.bi/)<br/>
+<a href="https://mana.bi/">鶴見教育工学研究所</a><br/>
 田中 健太
 </div>
 

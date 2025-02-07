@@ -1,1 +1,2 @@
-install.packages(c("remotes", "pak", "radiant"))
+install.packages(c("remotes", "pak"))
+pak::pak("radiant")
